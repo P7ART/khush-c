@@ -1,0 +1,2 @@
+//local and gobal variable 
+
