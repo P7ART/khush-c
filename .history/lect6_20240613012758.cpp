@@ -9,7 +9,7 @@ using namespace std;
 int main(){
     cout<<"header file and operators.";
     
-
+}
 // For more header files go to "C++ reference for header file ."
 
 // OPERATOR
@@ -25,8 +25,7 @@ int main(){
 	cout << "a % b is :" << a%b << endl; 
 	cout << "a++ is :" << a++ <<endl; 
 	cout << "a-- is :" << a-- <<endl; 
-    cout<<"--a is :"<<--a<<endl;
-    cout<<"++a is :"<<++a<<endl;
+    cout<<"--a is :"<<--a;
 
 
 

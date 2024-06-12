@@ -8,13 +8,15 @@ using namespace std;
 
 int main(){
     cout<<"header file and operators.";
-    
-
+    return 0;
+}
 // For more header files go to "C++ reference for header file ."
 
 // OPERATOR
 
-
+#include <iostream>
+using namespace std;
+int main() {
 	int a = 11;
 	int b = 5;
 
@@ -23,12 +25,9 @@ int main(){
 	cout << "a * b is :" << a*b << endl; 
 	cout << "a / b is :" << a/b << endl; 
 	cout << "a % b is :" << a%b << endl; 
-	cout << "a++ is :" << a++ <<endl; 
-	cout << "a-- is :" << a-- <<endl; 
-    cout<<"--a is :"<<--a<<endl;
-    cout<<"++a is :"<<++a<<endl;
-
-
+	cout << "a++ is :" << a++ << endl; 
+	cout << "a-- is :" << a-- << endl; 
+    cout<<"--a"
 
 
 	return 0;

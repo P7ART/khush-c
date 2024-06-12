@@ -25,8 +25,8 @@ int main(){
 	cout << "a % b is :" << a%b << endl; 
 	cout << "a++ is :" << a++ <<endl; 
 	cout << "a-- is :" << a-- <<endl; 
-    cout<<"--a is :"<<--a<<endl;
-    cout<<"++a is :"<<++a<<endl;
+    cout<<"--a is :"<<--a<<end1;
+a"
 
 
 
