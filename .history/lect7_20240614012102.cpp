@@ -26,3 +26,15 @@
 #include<iostream>
 
 using namespace std;
+
+int main(){
+int d = 23;
+float e =45.23f;
+long double g = 45.44542l;
+char t = 'Q';
+cout<<"the size of e"<<sizeof(g)<<endl; 
+cout<<"the size of e"<<sizeof(g)<<endl; 
+cout<<"the size of t "<<sizeof(t)<<endl;
+    
+ return 0;
+}

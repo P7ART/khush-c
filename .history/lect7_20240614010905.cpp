@@ -4,10 +4,10 @@
 
 // #include<iostream>
 
- //using namespace std;
+ using namespace std;
 // int c = 56;
 // int f = 455;
-//int main(){
+int main(){
 //     int a,b,c;
 //     cout<<"enter the value of a"<<endl;
 //     cin>>a;
@@ -17,12 +17,26 @@
 //     cout<<"the cvalue of c is "<<c<<endl;
 //     cout<<"the value of c:"<<::c<<endl;
 //     cout<<"the value of f is :"<<f<<endl;
-// return 0;
-//}
 
                    //---->Get to know the size of the value in variable 
 
+       int d = 23;
+       float e =45.23f;
+       long double g = 45.44542l;
+       char t = 'Q';
+       cout<<"the value of d"<<
+       cout<<"the size of g"<<
+       cout<<"the size of e"<<
+       cout<<"the size of t "<<the 
 
-#include<iostream>
 
-using namespace std;
+           
+
+
+
+
+    
+
+    return 0; 
+
+}
