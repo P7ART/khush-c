@@ -36,6 +36,7 @@ Write a program to check whether a year entered by the user is a leap year or no
         cin>>year;
         if(year%4==0){
                 cout<<"the year is a leap year:"<<endl;
+            }
         }
         else{
             cout<<"its not a leap year:"<<endl;
