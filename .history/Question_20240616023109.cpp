@@ -3,24 +3,24 @@ Basic if Statement:
 Write a C++ program to check if a number entered by the user is even or odd using an if-else statement.
 */
 
-#include<iostream>
+// #include<iostream>
 
-using namespace std;
+// using namespace std;
 
-int main(){
-    int num;
-    cout<<"enter the num :"<<endl;
-    cin>>num;
+// int main(){
+//     int num;
+//     cout<<"enter the num :"<<endl;
+//     cin>>num;
 
-    if(num%2==0){
-        cout<<"the number is even:"<<endl;
-    }
-    else{
-        cout<<"the number is odd:"<<endl;
-    }
+//     if(num%2==0){
+//         cout<<"the number is even:"<<endl;
+//     }
+//     else{
+//         cout<<"the number is odd:"<<endl;
+//     }
 
-    return 0 ;
-}
+//     return 0 ;
+// }
 
 /* Ouestion 2 Nested if-else Statement:
 Write a program to check whether a year entered by the user is a leap year or not using nested if-else statements.
@@ -49,20 +49,13 @@ Create a program that accepts a character input and determines if it is a vowel 
 
         using namespace std;
 
-        int main(){
+        int mian(){
             char ty;
             cout<<"enter the character to check wheather is vowel or consonant:"<<endl;
             cin>>ty;
-            if(ty=='a'||ty=='e'||ty=='i'||ty=='o'||ty=='u'){
-                cout<<"enter char is vowel:"<<endl;
+            if(ty==a)(ty==e);{
 
             }
-            else{
-                cout<<"enter char is not vowel"<<endl;
-            }
-            return 0;
-
-            
         }
         
         

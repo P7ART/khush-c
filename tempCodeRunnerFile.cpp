@@ -1,28 +1,16 @@
-
-// the use of scope resloution operator [::]
-//use to print the value of gobal variable with same variable name
-
-// #include<iostream>
-
- //using namespace std;
-// int c = 56;
-// int f = 455;
-//int main(){
-//     int a,b,c;
-//     cout<<"enter the value of a"<<endl;
-//     cin>>a;
-//     cout<<"enter the value of b"<<endl;
-//     cin>>b;
-//     c =  a+b;
-//     cout<<"the cvalue of c is "<<c<<endl;
-//     cout<<"the value of c:"<<::c<<endl;
-//     cout<<"the value of f is :"<<f<<endl;
-// return 0;
-//}
-
-                   //---->Get to know the size of the value in variable 
-
-
 #include<iostream>
 
-using namespace std;
+//     using namespace std;
+
+//     int main(){
+//         int year;
+//         cout<<"enter the year to check wheather is leap year or not:"<<endl;
+//         cin>>year;
+//         if(year%4==0){
+//                 cout<<"the year is a leap year:"<<endl;
+//         }
+//         else{
+//             cout<<"its not a leap year:"<<endl;
+//         }
+//  return 0;
+//     }
